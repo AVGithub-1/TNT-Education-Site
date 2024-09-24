@@ -5,17 +5,12 @@ description: "Welcome to Neurotechnology 101 - Your Guide to Understanding the F
 ---
 
 # Neurotechnology 101
-
-![Neurotechnology Banner](https://example.com/banner-image.jpg) <!-- Optional: Add an image link here -->
-
-## Navigation
-
 <div style="text-align: center;">
-  <a href="/hardware" style="display: inline-block; width: 19%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-align: center; text-decoration: none; font-size: 18px; border-radius: 5px;">Hardware</a>
-  <a href="/software" style="display: inline-block; width: 19%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-align: center; text-decoration: none; font-size: 18px; border-radius: 5px;">Software</a>
-  <a href="/neuroscience" style="display: inline-block; width: 19%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-align: center; text-decoration: none; font-size: 18px; border-radius: 5px;">Neuroscience</a>
-  <a href="/data-collection" style="display: inline-block; width: 19%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-align: center; text-decoration: none; font-size: 18px; border-radius: 5px;">Data Collection</a>
-  <a href="/machine-learning" style="display: inline-block; width: 19%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-align: center; text-decoration: none; font-size: 18px; border-radius: 5px;">Machine Learning</a>
+  <a href="/hardware" style="display: inline-block; width: 19%; padding: 10px 0; margin: 1%; background-color: #007BFF; color: white; text-align: center; text-decoration: none; font-size: 18px; border-radius: 5px;">Hardware</a>
+  <a href="/software" style="display: inline-block; width: 19%; padding: 10px 0; margin: 1%; background-color: #007BFF; color: white; text-align: center; text-decoration: none; font-size: 18px; border-radius: 5px;">Software</a>
+  <a href="/neuroscience" style="display: inline-block; width: 19%; padding: 10px 0; margin: 1%; background-color: #007BFF; color: white; text-align: center; text-decoration: none; font-size: 18px; border-radius: 5px;">Neuroscience</a>
+  <a href="/data-collection" style="display: inline-block; width: 19%; padding: 10px 0; margin: 1%; background-color: #007BFF; color: white; text-align: center; text-decoration: none; font-size: 18px; border-radius: 5px;">Data Collection</a>
+  <a href="/machine-learning" style="display: inline-block; width: 19%; padding: 10px 0; margin: 1%; background-color: #007BFF; color: white; text-align: center; text-decoration: none; font-size: 18px; border-radius: 5px;">Machine Learning</a>
 </div>
 
 ---
