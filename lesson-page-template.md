@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Lesson 1: Introduction to Neurotechnology"
-description: "A brief introduction to the field of neurotechnology."
+title: "lesson page template"
+description: "template for lesson pages that can be used as a starting point for new lessons"
 ---
 
 # Lesson 1: Introduction to Neurotechnology
