@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "main topic template"
-description: "template for each main topic's page, listing the different "
+title: "software home page"
+description: "home page for software related lessons"
 ---
 
 # Software
