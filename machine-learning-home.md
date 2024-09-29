@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "main topic template"
-description: "template for each main topic's page, listing the different "
+title: "Machine Learning home page"
+description: "home page for machine learning topics"
 ---
 
 # Machine Learning
