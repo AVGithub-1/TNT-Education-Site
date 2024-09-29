@@ -6,11 +6,11 @@ description: "Welcome to Neurotechnology 101 - Your Guide to Understanding the F
 
 # Neurotechnology 101
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; text-align: center; margin: 20px 0;">
-  <a href="/hardware" style="flex-grow: 1; flex-basis: 15%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-decoration: none; font-size: 18px; border-radius: 5px;">Hardware</a>
-  <a href="/software" style="flex-grow: 1; flex-basis: 15%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-decoration: none; font-size: 18px; border-radius: 5px;">Software</a>
-  <a href="/neuroscience" style="flex-grow: 1; flex-basis: 15%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-decoration: none; font-size: 18px; border-radius: 5px;">Neuroscience</a>
-  <a href="/data-collection" style="flex-grow: 1; flex-basis: 15%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-decoration: none; font-size: 18px; border-radius: 5px;">Data Collection</a>
-  <a href="/machine-learning" style="flex-grow: 1; flex-basis: 15%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-decoration: none; font-size: 18px; border-radius: 5px;">Machine Learning</a>
+  <a href="/hardware-home.md" style="flex-grow: 1; flex-basis: 15%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-decoration: none; font-size: 18px; border-radius: 5px;">Hardware</a>
+  <a href="/software-home.md" style="flex-grow: 1; flex-basis: 15%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-decoration: none; font-size: 18px; border-radius: 5px;">Software</a>
+  <a href="/neuroscience-home.md" style="flex-grow: 1; flex-basis: 15%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-decoration: none; font-size: 18px; border-radius: 5px;">Neuroscience</a>
+  <a href="/data-collection-home.md" style="flex-grow: 1; flex-basis: 15%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-decoration: none; font-size: 18px; border-radius: 5px;">Data Collection</a>
+  <a href="/machine-learning-home.md" style="flex-grow: 1; flex-basis: 15%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-decoration: none; font-size: 18px; border-radius: 5px;">Machine Learning</a>
 </div>
 ---
 
@@ -28,8 +28,3 @@ Our educational content is centered around 5 main topics that we feel are most r
 - Neuroscience: Essential concepts about neurons, event-related potentials, neural signals, and more
 - Data Collection: detailed guides and tutorials on recording and processing neural signal data
 - Machine Learning: The basics of machine learning, ways to use it to analyze neural signals, and unique models used in neurotechnology
-
-
-## What is Neurotechnology?
-Neurotechnology bridges the gap between neuroscience and modern technology. It involves both hardware and software systems designed to understand, repair, or augment the nervous system.
-
