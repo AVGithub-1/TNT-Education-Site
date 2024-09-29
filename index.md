@@ -6,11 +6,11 @@ description: "Welcome to Neurotechnology 101 - Your Guide to Understanding the F
 
 # Neurotechnology 101
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; text-align: center; margin: 20px 0;">
-  <a href="/hardware-home.md" style="flex-grow: 1; flex-basis: 15%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-decoration: none; font-size: 18px; border-radius: 5px;">Hardware</a>
-  <a href="/software-home.md" style="flex-grow: 1; flex-basis: 15%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-decoration: none; font-size: 18px; border-radius: 5px;">Software</a>
-  <a href="/neuroscience-home.md" style="flex-grow: 1; flex-basis: 15%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-decoration: none; font-size: 18px; border-radius: 5px;">Neuroscience</a>
-  <a href="/data-collection-home.md" style="flex-grow: 1; flex-basis: 15%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-decoration: none; font-size: 18px; border-radius: 5px;">Data Collection</a>
-  <a href="/machine-learning-home.md" style="flex-grow: 1; flex-basis: 15%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-decoration: none; font-size: 18px; border-radius: 5px;">Machine Learning</a>
+  <a href="/TNT-Education-Site/hardware-home.md" style="flex-grow: 1; flex-basis: 15%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-decoration: none; font-size: 18px; border-radius: 5px;">Hardware</a>
+  <a href="/TNT-Education-Site/software-home.md" style="flex-grow: 1; flex-basis: 15%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-decoration: none; font-size: 18px; border-radius: 5px;">Software</a>
+  <a href="/TNT-Education-Site/neuroscience-home.md" style="flex-grow: 1; flex-basis: 15%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-decoration: none; font-size: 18px; border-radius: 5px;">Neuroscience</a>
+  <a href="/TNT-Education-Site/data-collection-home.md" style="flex-grow: 1; flex-basis: 15%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-decoration: none; font-size: 18px; border-radius: 5px;">Data Collection</a>
+  <a href="/TNT-Education-Site/machine-learning-home.md" style="flex-grow: 1; flex-basis: 15%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-decoration: none; font-size: 18px; border-radius: 5px;">Machine Learning</a>
 </div>
 ---
 
