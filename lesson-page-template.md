@@ -3,7 +3,25 @@ layout: default
 title: "lesson page template"
 description: "template for lesson pages that can be used as a starting point for new lessons"
 ---
-
+<nav style="background-color: #333; padding: 10px; display: flex;">
+  <ul style="list-style-type: none; margin: 0; padding: 0; display: flex; width: 100%; justify-content: space-between;">
+    <li style="flex: 1;">
+      <a href="/hardware-home.md" style="color: white; text-decoration: none; padding: 14px 0; display: block; text-align: center;">Hardware</a>
+    </li>
+    <li style="flex: 1;">
+      <a href="/software-home.md" style="color: white; text-decoration: none; padding: 14px 0; display: block; text-align: center;">Software</a>
+    </li>
+    <li style="flex: 1;">
+      <a href="/machine-learning-home.md" style="color: white; text-decoration: none; padding: 14px 0; display: block; text-align: center;">Machine Learning</a>
+    </li>
+    <li style="flex: 1;">
+      <a href="/data-collection-home.md" style="color: white; text-decoration: none; padding: 14px 0; display: block; text-align: center;">Data Collection</a>
+    </li>
+    <li style="flex: 1;">
+      <a href="/neuroscience-home.md" style="color: white; text-decoration: none; padding: 14px 0; display: block; text-align: center;">Neuroscience</a>
+    </li>
+  </ul>
+</nav>
 # Lesson 1: Introduction to Neurotechnology
 
 ## Overview
