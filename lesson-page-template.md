@@ -8,7 +8,7 @@ description: "template for lesson pages that can be used as a starting point for
     <div style= "display: flex; justify-content: center; align-items: center; background-color: #333;">
       <img src='blue-logo.2628fd03822632f2ee386d96ccf8ae34.svg' width="40vw" style="margin-right: 15px;">
       <h1 style="text-align: center;">
-        <a href="/index.md" font-size: 2em;>
+        <a href="/index.md">
         Triton Neurotech
         </a>
       </h1>
