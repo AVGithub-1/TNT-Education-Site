@@ -3,13 +3,14 @@ layout: default
 title: "lesson page template"
 description: "template for lesson pages that can be used as a starting point for new lessons"
 ---
+
 <header>
     <div style= "display: flex; justify-content: center; align-items: center; background-color: #333;">
       <img src='blue-logo.2628fd03822632f2ee386d96ccf8ae34.svg' width="40vw" style="margin-right: 15px;">
       <h1 style="text-align: center;">
-      <a href="/index.md" font-size: 2em;>
-      Triton Neurotech
-      </a>
+        <a href="/index.md" font-size: 2em;>
+        Triton Neurotech
+        </a>
       </h1>
     </div>
 
@@ -58,5 +59,5 @@ insert content here
 ## Next Lesson (if part of lesson series)
 [Lesson 2: Brain-Computer Interfaces](/lesson2)
 
----
+
 
