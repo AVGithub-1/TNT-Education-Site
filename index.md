@@ -5,13 +5,27 @@ description: "Welcome to Neurotechnology 101 - Your Guide to Understanding the F
 ---
 
 # Neurotechnology 101
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; text-align: center; margin: 20px 0;">
-  <a href="/TNT-Education-Site/hardware-home" style="flex-grow: 1; flex-basis: 15%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-decoration: none; font-size: 18px; border-radius: 5px;">Hardware</a>
-  <a href="/TNT-Education-Site/software-home" style="flex-grow: 1; flex-basis: 15%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-decoration: none; font-size: 18px; border-radius: 5px;">Software</a>
-  <a href="/TNT-Education-Site/neuroscience-home" style="flex-grow: 1; flex-basis: 15%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-decoration: none; font-size: 18px; border-radius: 5px;">Neuroscience</a>
-  <a href="/TNT-Education-Site/data-collection-home" style="flex-grow: 1; flex-basis: 15%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-decoration: none; font-size: 18px; border-radius: 5px;">Data Collection</a>
-  <a href="/TNT-Education-Site/machine-learning-home" style="flex-grow: 1; flex-basis: 15%; padding: 10px 0; margin: 5px; background-color: #007BFF; color: white; text-decoration: none; font-size: 18px; border-radius: 5px;">Machine Learning</a>
-</div>
+
+<nav style="background-color: #34a1eb; padding: 10px; display: flex;">
+  <ul style="list-style-type: none; margin: 0; padding: 0; display: flex; width: 100%; justify-content: space-between;">
+    <li style="flex: 1;">
+      <a href="/hardware-home.md" style="color: white; text-decoration: none; padding: 14px 0; display: block; text-align: center;">Hardware</a>
+    </li>
+    <li style="flex: 1;">
+      <a href="/software-home.md" style="color: white; text-decoration: none; padding: 14px 0; display: block; text-align: center;">Software</a>
+    </li>
+    <li style="flex: 1;">
+      <a href="/machine-learning-home.md" style="color: white; text-decoration: none; padding: 14px 0; display: block; text-align: center;">Machine Learning</a>
+    </li>
+    <li style="flex: 1;">
+      <a href="/data-collection-home.md" style="color: white; text-decoration: none; padding: 14px 0; display: block; text-align: center;">Data Collection</a>
+    </li>
+    <li style="flex: 1;">
+      <a href="/neuroscience-home.md" style="color: white; text-decoration: none; padding: 14px 0; display: block; text-align: center;">Neuroscience</a>
+    </li>
+  </ul>
+</nav>
+
 ---
 
 ## About This Site
