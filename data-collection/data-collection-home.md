@@ -13,5 +13,6 @@ All data collection related lessons and tutorials
 
 ## Lessons
 
+[EEG Data Collection Procedure](/EEG-data-collection-procedure.md)
 
 ## Additional Resources
