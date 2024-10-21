@@ -26,7 +26,7 @@ description: "Welcome to Neurotechnology 101 - Your Guide to Understanding the F
         <a href="/TNT-Education-Site/machine-learning-home" style="color: white; text-decoration: none; padding: 14px 0; display: block; text-align: center;">Machine Learning</a>
       </li>
       <li style="flex: 1;">
-        <a href="/TNT-Education-Site/data collection/data-collection-home" style="color: white; text-decoration: none; padding: 14px 0; display: block; text-align: center;">Data Collection</a>
+        <a href="/TNT-Education-Site/data-collection/data-collection-home" style="color: white; text-decoration: none; padding: 14px 0; display: block; text-align: center;">Data Collection</a>
       </li>
       <li style="flex: 1;">
         <a href="/TNT-Education-Site/neuroscience-home" style="color: white; text-decoration: none; padding: 14px 0; display: block; text-align: center;">Neuroscience</a>
