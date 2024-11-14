@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<head>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+    </style>
+    <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+
+  <body>
+    <div class="wrapper">
+      <header>
+        <div style= "display: flex; justify-content: center; align-items: center; background-color: #333;">
+          <img src='../common-assets/blue-logo.2628fd03822632f2ee386d96ccf8ae34.svg' width="40vw" style="margin-right: 15px;">
+          <h1 style="text-align: center;">
+            <a href="/">
+            Triton Neurotech
+            </a>
+          </h1>
+        </div>
+    
+      <nav style="background-color: #34a1eb; padding: 10px; display: flex;">
+        <ul style="list-style-type: none; margin: 0; padding: 0; display: flex; width: 100%; justify-content: space-between;">
+          <li style="flex: 1;">
+            <a href="/hardware/hardware-home" class="main-category">Hardware</a>
+          </li>
+          <li style="flex: 1;">
+            <a href="/software/software-home" class="main-category">Software</a>
+          </li>
+          <li style="flex: 1;">
+            <a href="/machine-learning/machine-learning-home" class="main-category">Machine Learning</a>
+          </li>
+          <li style="flex: 1;">
+            <a href="/data-collection/data-collection-home" class="main-category">Data Collection</a>
+          </li>
+          <li style="flex: 1;">
+            <a href="/neuroscience/neuroscience-home" class="main-category">Neuroscience</a>
+          </li>
+        </ul>
+      </nav>
+      
+      <h1 class="title">
+        {{page.title}}
+      </h1>
+      <hr>
+    </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
